@@ -1,4 +1,4 @@
-﻿ui_menu_password_FontMap:
+ui_menu_password_FontMap:
     .db $80, $00, $FE, $FF ; 공백
     .db $83, $0D, $80, $81 ; .
     .db $83, $0F, $82, $83 ; 0

@@ -1,4 +1,4 @@
-﻿.loadtable "kr_table.txt", "utf-8"
+.loadtable "kr_table.txt", "utf-8"
 .bank 0x04, 0x8000
 
 .org 0x82DC
